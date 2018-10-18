@@ -1,4 +1,4 @@
-package tesseract_project;
+package Dataextractor;
 
 import java.awt.image.BufferedImage;
 

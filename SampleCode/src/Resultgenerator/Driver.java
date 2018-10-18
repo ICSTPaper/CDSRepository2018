@@ -1,4 +1,4 @@
-package tesseract_project;
+package Resultgenerator;
 
 import static org.junit.Assert.assertEquals;
 
@@ -8,6 +8,7 @@ import org.eclipse.uml2.uml.Model;
 import org.eclipse.uml2.uml.Package;
 import org.opencv.imgproc.Imgproc;
 
+import Dataextractor.ImageSelector;
 import Plane.Plane;
 import src.CreateUMLModel;
 
